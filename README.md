@@ -1,6 +1,4 @@
 # practicum_ds
-Contains projects implemented within the course
-
 # Репозиторий выпускника профессии "Специалист по Data Science"
 
 Данные проекты были выполнены в ходе обучения в Яндекс.Практикуме:
