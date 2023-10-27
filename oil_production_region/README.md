@@ -41,6 +41,6 @@
 - *pandas*
 - *numpy*
 - *scikit-learn*
-- *технология Bootstrep*
+- *технология Bootstrap*
 - *matplotlib*
 - *skipy*
