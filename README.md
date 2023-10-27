@@ -16,13 +16,6 @@
 | [Исследование объявлений о продаже квартир](./realty_research) | Недвижимость — архив объявлений о продаже квартир в Санкт-Петербурге и соседних населённых пунктов за несколько лет. Нужно установить параметры, наиболее сильно влияющие на стоимость недвижимости.| *pandas, numpy, scikit-learn, matplotlib* |
 | [Предварительный анализ тарифов сотовой связи](./tarrif_research) | Чтобы скорректировать рекламный бюджет, коммерческий департамент хочет понять, какой тариф приносит больше денег | *pandas, numpy, seaborn, datetime, matplotlib, scipy* |
 | [Прогнозирование количества заказов такси на следующий час](./taxi_prediction) | Разработать систему предсказания объема заказов такси на следующий час | *pandas, numpy, scikit-learn, catboost, seaborn, matplotlib, statsmodels, lightgbm, datetime*|
-| [Классификаиция клиентов телеком компании](cell_predictions) | На основе данных предложить клиенту более выгодный тариф | *pandas, numpy, matplotlib, scikit-learn* |
-pandas
-numpy
-scikit-learn
-seaborn
-phik
-catboost
-lightgbm
+| [Классификаиция клиентов телеком компании](cell_predictions) | Построение модели классификации абонентов, позволяющая предсказать их уход. | *pandas, scikit-learn, numpy, seaborn, phik, catboost, lightgbm* |
 | [Исследование надежности заемщиков](credit_clients) | Классификация надежности потенциальных заемщиков банка | *pandas, matplotlib, seaborn* |
 | [Обучение модели классификации комментариев](toxic_bert) | Определение токсичности комментариев | *pandas, numpy, scikit-learn, catboost, BERT, pytorch, re, nltk* |
