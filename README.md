@@ -18,7 +18,5 @@
 | [Прогнозирование количества заказов такси на следующий час](./taxi_prediction) | Разработать систему предсказания объема заказов такси на следующий час | *pandas, numpy, scikit-learn, catboost, seaborn, matplotlib, statsmodels, lightgbm, datetime*|
 | [Классификаиция клиентов телеком компании](./telecom_churn) | Построение модели классификации абонентов, позволяющая предсказать их уход. | *pandas, scikit-learn, numpy, seaborn, phik, catboost, lightgbm* |
 | [Рекомендация тарифов телефонии ](./telecom_client_classification) | Построение модели классификации для рекомендация тарифов "Смарт" либо "Ультра"| 
-
-
-| [Исследование надежности заемщиков](credit_clients) | Классификация надежности потенциальных заемщиков банка | *pandas, matplotlib, seaborn* |
-| [Обучение модели классификации комментариев](toxic_bert) | Определение токсичности комментариев | *pandas, numpy, scikit-learn, catboost, BERT, pytorch, re, nltk* |
+*pandas, scikit-learn, numpy*|
+| [Обучение модели классификации комментариев](./toxic_prediction) | Определение токсичности комментариев | *pandas, numpy, scikit-learn, catboost, BERT, pytorch, re, nltk* |
