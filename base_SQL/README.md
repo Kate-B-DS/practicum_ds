@@ -12,8 +12,8 @@
 
 ## Используемые библиотеки
 
-*pandas*
-*numpy*
-*SQLite*
++ *pandas*
++ *numpy*
++ *SQLite*
 
 
