@@ -8,9 +8,9 @@
 В результате проекта освоили применение SQL к данным.
 
 ## Используемые библиотеки
-+*pandas*
-+*numpy*
-+*SQLite*
-+*psycopg2*
-+*SQlite3*
-+*PostgreSQL*
++ *pandas*
++ *numpy*
++ *SQLite*
++ *psycopg2*
++ *SQlite3*
++ *PostgreSQL*
