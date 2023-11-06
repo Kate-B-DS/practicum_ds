@@ -15,5 +15,8 @@
 + *pandas*
 + *numpy*
 + *SQLite*
++ *psycopg2*
++ *SQlite3*
++ *PostgreSQL*
 
 
